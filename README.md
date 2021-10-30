@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ingeniousabhinav
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development 
+- My Skills Are HTML,CSS,JS,PHP,.NET
 - 💞️ I’m looking to collaborate on software Development Project
 - 📫 How to reach me insta@ingenious_abhinav
 
